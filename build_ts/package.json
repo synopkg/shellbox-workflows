@@ -8,7 +8,7 @@
     "build": "tsc && webpack",
     "prepare": "npm run build"
   },
-  "author": "Shellbox Team (synopkg@khulnasoft.com)",
+  "author": "Synopkg Team (synopkg@khulnasoft.com)",
   "license": "MIT",
   "devDependencies": {
     "@types/webpack-env": "^1.16.3",
